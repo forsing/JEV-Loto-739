@@ -52,9 +52,9 @@ API_URL = "https://api.typesafe.ai/v1/systemone"
 DEFAULT_MODEL = "jev-latest"
 
 DEFAULT_FILES = (
-    "/Users/4c/Desktop/GHQ/data/loto7_4704_k83.csv",
-    "/Users/4c/Desktop/GHQ/data/loto7_4704_k83_loto_2974.csv",
-    "/Users/4c/Desktop/GHQ/data/loto7_4704_k83_loto_plus_1730.csv",
+    "/data/loto7_4704_k83.csv",
+    "/data/loto7_4704_k83_loto_2974.csv",
+    "/data/loto7_4704_k83_loto_plus_1730.csv",
 )
 
 MAX_RESPONSE_BYTES = 8 * 1024 * 1024
